@@ -1,22 +1,22 @@
-## Hi there 👋
+# 😄 Hi there, I'm Yujie Lee 👋
 
-<!--
-**blisky-li/blisky-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm a researcher / developer focusing on **time series forecasting**, **spatio-temporal learning**, and **AI for scientific applications**.
 
-Here are some ideas to get you started:
+## 🌱 Research Interests
+- Time Series Forecasting
+- Spatio-Temporal Prediction
+- Foundation Models for Time Series
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- [ARIES](https://github.com/blisky-li/ARIES) -Under construction recently
-- [APT](https://github.com/blisky-li/APT) -Under construction recently
-- [STA-GANN](https://github.com/blisky-li/STAGANN) -Under construction recently
+## ⚡ Selected Projects
+- [**ARIES**](https://github.com/blisky-li/ARIES) : A project related to time-series modeling and evaluation. _Currently under active development._
+
+- [**APT**](https://github.com/blisky-li/APT): A research-oriented project for advanced predictive modeling. 
+- [**STA-GANN**](https://github.com/blisky-li/STAGANN): A spatio-temporal kriging project. _Currently under active development.
+  
+## 👯 Currently Working On
+- Building robust benchmarks for time series models
+- Studying pattern-aware corpus construction and model evaluation
+- Exploring spatio-temporal forecasting and scientific AI systems
 
 [![GitHub Streak](https://github-readme-streak-stats-five-nu-47.vercel.app?user=blisky-li&theme=highcontrast)](https://git.io/streak-stats)
 
