@@ -4,7 +4,7 @@
 
 ## 🌱 Research Interests
 - Time Series Forecasting
-- Spatio-Temporal Prediction
+- Spatio-Temporal Analysis
 - Foundation Models for Time Series
 
 ## ⚡ Selected Projects
