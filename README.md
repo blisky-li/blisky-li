@@ -11,12 +11,12 @@ Time series forecasting, spatio-temporal learning, AI for Science, data-centric 
 
 ## 📌 Selected Work
 
-- **[ARIES](https://github.com/blisky-li/ARIES)** — Time-series modeling and evaluation  
-- **[APT](https://github.com/blisky-li/APT)** — Predictive modeling under distribution drift  
-- **[BLAST](https://github.com/blisky-li/BLAST)** — Balanced corpus construction for time series  
-- **[STA-GANN](https://github.com/blisky-li/STAGANN)** — Spatio-temporal kriging  
-- **[DFDGCN](https://github.com/blisky-li/DFDGCN)** — Dynamic graph learning for spatio-temporal prediction  
-- **[TULMGAT](https://github.com/blisky-li/TULMGAT)** — Trajectory user linking
+- **[ARIES](https://github.com/blisky-li/ARIES)** [arxiv](https://arxiv.org/abs/2509.06060) — Time-series modeling and evaluation  
+- **[APT](https://github.com/blisky-li/APT)** [AAAI26](https://arxiv.org/html/2511.12945) — Predictive modeling under distribution drift  
+- **[BLAST](https://github.com/blisky-li/BLAST)** [KDD25](https://arxiv.org/abs/2505.17871) — Balanced corpus construction for time series  
+- **[STA-GANN](https://github.com/blisky-li/STAGANN)** [CIKM25](https://arxiv.org/html/2508.16161v1) — Spatio-temporal kriging  
+- **[DFDGCN](https://github.com/blisky-li/DFDGCN)** [ICASSP24](https://arxiv.org/html/2312.11933v1)— Dynamic graph learning for spatio-temporal prediction  
+- **[TULMGAT](https://github.com/blisky-li/TULMGAT)** [PR25](https://www.sciencedirect.com/science/article/abs/pii/S0031320324007295) — Trajectory user linking
 
 ## 🔭 Ongoing Directions
 
