@@ -20,10 +20,10 @@ Time series forecasting, spatio-temporal learning, AI for Science, data-centric 
 
 ## 🔭 Ongoing Directions
 
-- Benchmarking for time series foundation models
-- Pattern-aware corpus construction and evaluation
-- Distribution shift and model robustness
-- Scientific AI systems for real-world applications
+- Benchmarking for time series foundation models;
+- Pattern-aware corpus construction and evaluation;
+- Distribution shift and model robustness;
+- Scientific AI systems for real-world applications.
 
 ## 🤝 Collaboration
 
