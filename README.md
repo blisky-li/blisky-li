@@ -1,16 +1,17 @@
 # Hi! I'm Yujie Lee 👋
 
 **Ph.D. Student, Institute of Computing Technology, Chinese Academy of Sciences**  
-**Researcher in Time Series, Spatio-Temporal Learning, and AI for Science**
+**Researcher in Time Series Analysis, Spatial Intelligence, and AI for Meteorology**
 
-I work on data-centric machine learning for scientific discovery, with a particular focus on time series forecasting, spatio-temporal modeling, and robust evaluation of AI systems. I am also engaged in foundational research on frontier applications of large models at Baidu.
+I work on data-centric machine learning for scientific discovery, with a particular focus on time series forecasting/anomaly detection/generation, spatio-temporal modeling, and robust evaluation of AI systems. I also contribute to foundational research in Baidu’s Wenxin department <img src="https://ernie.baidu.com/blog/img/logo-en.png" alt="ERNIE" height="16">.
 
 ## 🔬 Research Interests
 
-Time series forecasting, spatio-temporal learning, AI for Science, data-centric AI, and robust model evaluation.
+Time Series Analysis and Applications, Spatial Intelligence, and AI for Meteorology.
 
 ## 📌 Selected Work
 
+- **[QUALS](https://github.com/GestaltCogTeam/QUALS)** [PVLDB27](https://arxiv.org/abs/2609.20156) — Corpus equilibrium for universal time-series forecasting
 - **[ARIES](https://github.com/blisky-li/ARIES)** [arxiv](https://arxiv.org/abs/2509.06060) — Time-series modeling and evaluation  
 - **[APT](https://github.com/blisky-li/APT)** [AAAI26](https://arxiv.org/html/2511.12945) — Predictive modeling under distribution drift  
 - **[BLAST](https://github.com/blisky-li/BLAST)** [KDD25](https://arxiv.org/abs/2505.17871) — Balanced corpus construction for time series  
@@ -36,4 +37,3 @@ Open to research collaborations in related areas.
 
 [![GitHub Streak](https://github-readme-streak-stats-five-nu-47.vercel.app?user=blisky-li&theme=highcontrast)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=blisky-li&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
